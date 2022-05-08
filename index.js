@@ -661,7 +661,7 @@ client.on('voiceStateUpdate', (oldState, newState) => {
 client.login("lostilostilostilostilostilostilosti")
 
 client.on('ready', () => {
-  client.user.setActivity(`Phelp`, { type: 'WATCHING' });
+  client.user.setActivity(`/help`, { type: 'WATCHING' });
   });
   client.on("warn", console.warn);
   client.on("error", console.error);
