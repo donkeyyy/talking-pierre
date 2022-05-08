@@ -21,8 +21,8 @@ const commands = [
 ]
 .map(command => command.toJSON());
 
-const clientId = ("970275589804130304")
-const token = ("OTcwMjc1NTg5ODA0MTMwMzA0.Ga1yt4.oCnz9L4ApxA7_ohfBbLc5r-rvjiuM6FSY71vy0")
+const clientId = ("lostilostilosti")
+const token = ("lostilostilostilostilosti")
 const rest = new REST({ version: '9' }).setToken(token);
 
 rest.put(Routes.applicationCommands(clientId), { body: commands })
