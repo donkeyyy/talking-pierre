@@ -658,7 +658,7 @@ client.on('voiceStateUpdate', (oldState, newState) => {
 }); 
 
 
-client.login("OTcwMjc1NTg5ODA0MTMwMzA0.Ga1yt4.oCnz9L4ApxA7_ohfBbLc5r-rvjiuM6FSY71vy0")
+client.login("lostilostilostilostilostilostilosti")
 
 client.on('ready', () => {
   client.user.setActivity(`Phelp`, { type: 'WATCHING' });
