@@ -1,0 +1,1 @@
+Discord bot based on the talking pierre mobile game, install the required packages, fill the required stuff in deploy-commands.js and index.js, then run deploy-commands.js to deploy the slash commands and then run index.js to run the bot!
